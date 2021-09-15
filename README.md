@@ -1,4 +1,6 @@
-### Hello, my name is David!
+### Hello, my name is David, welcome to my GitHub page.
+
+I am currently a PhD student at Lancaster University in the field of condensed matter theory.
 
 <!--
 **davidthomas4/davidthomas4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
